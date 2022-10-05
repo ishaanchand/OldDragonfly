@@ -1,0 +1,17 @@
+ul,ol {
+    color: blue;
+}
+
+.important {
+    font-weight: bold;
+}
+
+.completed {
+    text-decoration: line-through;
+}
+
+#todo {
+    color:red;
+    font-family: monospace;
+    text-transform: uppercase;
+}
